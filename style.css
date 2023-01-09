@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.container-fluid{
+    overflow-x: hidden;
+}
+.about{
+    background: #F6F6F6;
+}
+.menu{
+    display: flex;
+    justify-content: space-evenly;
+}
+.brend{
+    font-weight: bold;
+    font-size: 30px;
+}
+.button{
+    padding: 10px;
+    border: none;
+    border-radius: 20px;
+    background: #EFBD2E;
+    color: black;
+}
+.button:hover{
+    background: white;
+    color: black;
+    border: 1px solid black;
+}
+.garantirum{
+    background: #F6F6F6;
+}
+.skolko{
+    background: black;
+    color: white;
+}
+.znm{
+    display: flex;
+    padding: 10px;
+}
+.aleksandr{
+    background: #F6F6F6;
+}
+.buttok{
+    padding: 10px;
+    background: white;
+    color: black;
+    border: 1px solid black;
+    border-radius: 20px;
+}
+.buttok:hover{
+    padding: 10px;
+    border: none;
+    border-radius: 20px;
+    background: #EFBD2E;
+    color: black;
+}
+.xotit{
+    background: black;
+    color: white;
+}
